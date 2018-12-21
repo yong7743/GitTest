@@ -1,0 +1,3 @@
+[submodule "SubmodulesTest"]
+	path = SubmodulesTest
+	url = git@github.com:yong7743/SubmodulesTest.git
